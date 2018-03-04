@@ -114,7 +114,7 @@ box-shadow: 0 0.3125rem 1rem 0 rgba(0,0,0,0.24);
 	margin:6%;
 	border-radius:15px;
 	box-shadow: 0 0.3125rem 1rem 0 rgba(0,0,0,0.24);
-	background: linear-gradient(to bottom right,  #40e0d0, #7cfc00)
+	background: linear-gradient(to bottom right,red,#7cfc00)
 
 }
 
@@ -1442,5 +1442,6 @@ display:none;
 		
 }
 
+//this is a new css testing
 
 	
